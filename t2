@@ -1,0 +1,39 @@
+PUCRS/FACIN
+Programação para Engenharia II
+Trabalho T2 – Estruturas de dados
+Descrição
+O trabalho tem por objetivo consolidar os conceitos de programação orientada a objetos,
+especialmente sobre estruturas de dados, discutidos na disciplina de Programação para
+Engenharia II. O objetivo do trabalho é desenvolver classes para simular um sistema de
+automação composto de hardware e software integrados. O hardware deve ser simulado em
+software, com uso de classes. O trabalho deve ser desenvolvido em duplas ou trios.
+Projeto
+O projeto deve simular um sistema de automação da Biblioteca, Prosiga ou Digicon ou similar.
+Utilize as especificações técnicas para compreender como o sistema atribuído funciona. Todo o
+material consultado deve ser citado no relatório.
+
+Relatório
+O desenvolvimento do projeto deve ser registrado pelo grupo em um relatório escrito no
+formato LaTeX, por meio do ShareLaTeX. O relatório deve conter no máximo três páginas em
+formato de artigo.
+Cronograma
+O trabalho deve ser realizado em todas as aulas entre os dias 08/06 e 22/06, em laboratório. O
+trabalho deve ser entregue e apresentado até o dia 27/06/2018. No dia 08/06 devem ser
+formados os trios, um sistema a ser simulado deve ser selecionado e uma proposta do seu
+funcionamento deve ser entregue via fórum no Moodle.
+Requisitos
+Antes de concluir o trabalho, verifique se as entregas atendem seus enunciados. Cada trabalho
+deve ser adaptado para atender aos seguintes requisitos:
+a) Os dados de entrada devem ser lidos de um arquivo em formato texto. Cada entrada
+deve simular um evento de uso do equipamento.
+b) As principais abstrações do problema devem ser representadas como classes.
+c) Ao menos um cadastro ou tabela deve ser representado com uso de vector ou list.
+d) O programa deve ler o arquivo de dados e construir uma fila de eventos (uso de queue).
+e) O programa processa cada item da fila e realiza as operações solicitadas utilizando
+métodos das classes.
+f) O programa armazena os dados do processamento em um arquivo de saída.
+g) O código deve ser armazenado na área designada do GitHub.
+h) O código deve ser modularizado em arquivos .cc e arquivos .h. 
+Atenção: no GitHub, o aluno deve sempre cadastrar um incidente (issue) que representa uma
+tarefa de aprox. 20 minutos. A avaliação é realizada pela qualidade e quantidade de incidentes
+resolvidos. Apenas as contribuições identificadas com o usuário do aluno serão consideradas. 
