@@ -1,0 +1,19 @@
+- lista de bloqueios
+- lista de permissões
+- lista entrada
+- lista saída
+
+N vagas.
+
+Entrada:
+	Verifica lista de bloqueio – stop
+		Verifica lista de saída – lista de bloqueio – stop
+	Verifica lista de permissões – stop
+		Inclui na lista de saída
+	Atualiza n vagas
+Saída:
+	Verifica lista de bloqueio – stop
+		Verifica lista de entrada – lista de bloqueio – stop
+	Verifica lista de permissões – stop
+		Inclui na lista de saída
+	Atualiza n vagas
