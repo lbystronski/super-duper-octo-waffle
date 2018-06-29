@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530306219 source:c:\users\flatron\desktop\ia\t2\final\t2 prog\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	"user.h"
+
+1530305822 c:\users\flatron\desktop\ia\t2\final\t2 prog\user.h
+	<iostream>
+
+1530305659 source:c:\users\flatron\desktop\ia\t2\final\t2 prog\user.cpp
+	"user.h"
+
